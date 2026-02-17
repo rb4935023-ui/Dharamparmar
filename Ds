@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gayatri Farm - Fresh Produce and Sustainable Farming</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+        header { background-color: #4CAF50; color: white; text-align: center; padding: 1rem; }
+        nav { background-color: #333; color: white; padding: 0.5rem; text-align: center; }
+        nav a { color: white; margin: 0 1rem; text-decoration: none; }
+        section { padding: 2rem; max-width: 800px; margin: auto; }
+        footer { background-color: #333; color: white; text-align: center; padding: 1rem; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Gayatri Farm</h1>
+        <p>Growing fresh, organic produce for a healthier community.</p>
+    </header>
+    
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#products">Our Products</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    
+    <section id="about">
+        <h2>About Gayatri Farm</h2>
+        <p>Located in [Your Location], Gayatri Farm has been family-owned for [X] years. We specialize in sustainable farming practices, offering a variety of fresh fruits, vegetables, and herbs. Visit us for farm tours and pick-your-own experiences!</p>
+    </section>
+    
+    <section id="products">
+        <h2>Our Products</h2>
+        <ul>
+            <li>Fresh Vegetables: Tomatoes, Lettuce, Carrots</li>
+            <li>Fruits: Apples, Berries, Oranges</li>
+            <li>Herbs: Basil, Mint, Rosemary</li>
+            <li>Seasonal Specials: Available year-round</li>
+        </ul>
+       
